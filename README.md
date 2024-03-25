@@ -41,7 +41,7 @@ Project Name: CLI Application
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/iamMwirigi/Phase-3-Project.git
+   git clone https://github.com/masambu/phase3project.git
 ## Configuration
 - Database configuration is defined in app/database.py.
 - Database URL can be configured via environment variables or command-line arguments.
